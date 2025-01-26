@@ -1,1 +1,1 @@
-This is my personal website that uses the source code to Jon Barron's public academic website: https://jonbarron.info/. Please refer to his repository for cloning purposes.
+This is my personal website resume that uses the source code to Jon Barron's public academic website: https://jonbarron.info/. Please refer to his repository for cloning purposes.
